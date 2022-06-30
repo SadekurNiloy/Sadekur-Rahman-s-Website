@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fd79a8;
+} 
+.container {
+    margin-top: 100px;
+}
+.left-site {
+    width: 50%;
+    float: left;
+    margin-right: 5%;
+}
+.right-site {
+    width: 45%;
+    overflow: hidden;
+}
+.right-site img {
+    width: 50%;
+}
